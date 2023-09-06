@@ -1,0 +1,32 @@
+JAN
+1. 61 gas-pv
+2.
+3. 43 food-lidl
+4. 25 sport-varzimlazer
+5.
+6. 4 heal-farmacia + 5 shops-varzim
+7.
+8. 7 port + 5 food-padaria + 25 lunch-clinica
+9. 2 food-padaria
+10. 100 dinner
+11. 15 lunch-capanegra + 32 food-lidl
+12.
+13.
+14. 100 food-leck + 114 dinner-carvalho
+15. 65 gas-leck + 2 cof + 90 inc-prendas
+16.
+17.
+18. 0 dinner-mrpizza
+19. 26 shops-casachina + 13 heal-hluz
+20. 170 car-pneus
+21. 13 fun-cinema + 52 dinner-fogochao
+22.
+23.
+24. 45 trp-cp + 0 lunch + 20 shops-tiger + 10 gift-tiger + 4 cof + 3 food-padaria + 2 cof  + 1 cof + 12 shops-hairstyle
+25. 4 cof 
+26. 20 food-peixeira + 3 food-padaria + 4 food-dias
+27. 28 food-dia
+28.
+29. 0 gas + 17 lunch-pontelima + 6 food-fumeiro + 5 port
+30.
+31. 600 rent
