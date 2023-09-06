@@ -2,7 +2,7 @@
 
 - Day 1
 
-  python 01-file-organizor.py
+python 01-file-organizor.py
 
 - Day 2
 
