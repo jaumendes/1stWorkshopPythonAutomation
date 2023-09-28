@@ -14,4 +14,5 @@ python calc-expenses-v2.py expenses_20230131.txt
 
 - Day 4
 
+python init_db.py
 python app.py
