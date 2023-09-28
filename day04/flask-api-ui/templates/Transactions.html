@@ -1,0 +1,22 @@
+{% extends "template3.html" %}
+{% block content %}
+ <h1>Enter a Transaction</h1>
+
+ <form action="", method="POST">
+     <dl>
+         <dt>Sale Item:
+         <dd><input type=text name="Item" required/>
+         <dt>Shack:
+         <dd><input type=text name="Shack" required/>
+         <dt>Reference:
+         <dd><input type=text name="Paym_Reference" required/>
+         <dt>Amount:
+         <dd><input type=text name="Amount" required/>
+         </dl>
+     <br>
+
+
+<p><input type=submit value=Enter>
+  </form>
+
+ {% endblock %}
