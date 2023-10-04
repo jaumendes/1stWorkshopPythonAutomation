@@ -1,4 +1,7 @@
 # Python 3 server example
+# jaumendes
+# https://pythonbasics.org/webserver/
+
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import time
 
